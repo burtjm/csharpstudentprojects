@@ -1,0 +1,4 @@
+/Users/students/Documents/Assignment 4/obj/Debug/netcoreapp2.2/Assignment 4.csprojAssemblyReference.cache
+/Users/students/Documents/Assignment 4/obj/Debug/netcoreapp2.2/Assignment 4.csproj.CoreCompileInputs.cache
+/Users/students/Documents/Assignment 4/obj/Debug/netcoreapp2.2/Assignment 4.AssemblyInfoInputs.cache
+/Users/students/Documents/Assignment 4/obj/Debug/netcoreapp2.2/Assignment 4.AssemblyInfo.cs
